@@ -1,0 +1,18 @@
+{
+  "name": "sikka-2.0",
+  "version": "2.0.0",
+  "description": "Sikka : A blockchain implemented digital cryptocurrency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test //do_not_run_this_:/OK"
+  },
+  "keywords": [
+    "Sikka",
+    "Blockchain",
+    "Node.js",
+    "Typescript",
+    "PatanCoin"
+  ],
+  "author": "Samyeak Maharjan",
+  "license": "ISC"
+}
